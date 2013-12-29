@@ -1,0 +1,20 @@
+				///***\\\Indian Cititzen Database Management(Concept of aadhar card)///***\\\
+
+	This is the database management project which manages and links all the important details of a citizen at one place to help indian government to keep track of various important things.
+
+
+NOTES::
+
+*** Their is one report file named as "Report.docx" which can be reffered to get the detailed information about the project.
+
+*** The code of the project and all necesary details are also given.
+
+*** The code is given as a project of netbeans IDE,so you need to open the project in netbeans IDE.
+
+*** The required database that was linked is not uploaded till now but I will soon do it in short period of time. But still you can 	    use the software.
+
+*** Important Note: In the Database Connection Class(ConnectionSetup.java) there is this line given below:
+
+	String connectionParameters ="jdbc:mysql://localhost:3306/Citizens?user=root&password=root";
+
+	This line assumes that the user name and password of your Sql Connection IDE is 'root'. If it differes you need to change this 	line accordingly. Just Change root to its new value as per your system.
